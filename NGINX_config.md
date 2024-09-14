@@ -6,3 +6,7 @@
    - This allows you to securely access your home services using the domain name through the WireGuard tunnel.
 
 2. **Test the setup**: You should now be able to access your home-hosted service through your domain, though you'll receive a "Not Secure" warning due to the lack of SSL at this point.
+
+---
+
+### [Part 4:Setting up SSL encryption](setting_ssl.md)
