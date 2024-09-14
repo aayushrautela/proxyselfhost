@@ -14,6 +14,8 @@ The **general idea** behind SSL certificates is to secure the communication betw
    - In NGINX Proxy Manager, go to the "SSL" tab of your proxy host entry and select the SSL certificate you’ve issued.
    - Enable force SSL to ensure that all traffic to your domain is encrypted.
 
+![Sample config](assets/Screenshotfrom2024-09-1420-23-19.png)
+
 3. If you're using a custom domain, the steps will vary slightly depending on your DNS provider. Most modern domain registrars support DNS challenges through Let's Encrypt or allow you to manually install SSL certificates on your VPS.
 
 ---
