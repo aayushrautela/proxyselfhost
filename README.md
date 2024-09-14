@@ -13,4 +13,4 @@ Self-hosting your services at home offers several advantages. Your home PC can b
 
 ---
 
-### [Part 1:Configuiring Server at Home](home_server_config.md)
+### [Part 1:Configuiring Server at Home](initial_setup.md)
