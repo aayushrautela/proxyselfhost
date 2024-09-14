@@ -1,7 +1,7 @@
 # Self-Hosting Without a Public IP: Step-by-Step Guide
 
 ### Introduction
-Self-hosting your services at home offers several advantages. Your home PC can be more secure, more powerful, and customizable to your needs compared to shared hosting environments. However, not everyone has a public IP address, which is necessary for direct access to your home-hosted services. This guide walks you through setting up a secure tunnel using a VPS (Virtual Private Server) to allow access to your home-hosted services, even without a public IP.
+Self-hosting your services at home offers several advantages. Your home PC can be more secure, more powerful, and customizable to your needs compared to shared hosting environments. However, not everyone has a public IP address (or only get a public ipv6, like myself), which is necessary for direct access to your home-hosted services. This guide walks you through setting up a secure tunnel using a VPS (Virtual Private Server) to allow access to your home-hosted services, even without a public IP.
 
 ---
 
