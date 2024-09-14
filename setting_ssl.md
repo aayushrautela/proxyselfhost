@@ -18,6 +18,6 @@ The **general idea** behind SSL certificates is to secure the communication betw
 
 ---
 
-## Conclusion
+## You Did It
 You're now all set! With this setup, you can securely access your home-hosted services using your domain, tunneled through WireGuard, without needing a public IP at home.
 
