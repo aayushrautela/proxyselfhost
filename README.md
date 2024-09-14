@@ -11,3 +11,6 @@ Self-hosting your services at home offers several advantages. Your home PC can b
 3. A basic understanding of NGINX or any proxy server.
 4. Basic knowledge of WireGuard VPN.
 
+---
+
+### [Part 1:Configuiring Server at Home](home_server_config.md)
