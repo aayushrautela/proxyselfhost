@@ -1,4 +1,3 @@
----
 
 ## Step 1: Get a VPS with Public IP
 To expose your home services, you'll first need a VPS with a public IP. I recommend Oracle's Always Free tier or a cheap option from Hetzner, but feel free to use any VPS provider.
