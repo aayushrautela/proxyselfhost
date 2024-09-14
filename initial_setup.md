@@ -68,4 +68,6 @@ You need a VPN tunnel to securely route traffic between your home network and th
 ## Step 6: (Optional) Install NGINX Proxy Manager
 While not required, **NGINX Proxy Manager** offers a GUI for easy configuration of your reverse proxy settings, making management of domains and SSL certificates simple.
 
+---
 
+### [Part 2: Home Server Setup](home_server_config.md)
