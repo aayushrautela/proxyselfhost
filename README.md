@@ -133,9 +133,3 @@ You're now all set! With this setup, you can securely access your home-hosted se
 - This setup is highly customizable based on your specific needs and can be adapted to different VPNs, proxy servers, or domain configurations.
 - Feel free to upgrade your domain or VPS as necessary as your needs grow.
 ```
-
-### Explanation of Changes:
-1. **Part 4: SSL Certificates** now includes the general explanation you mentioned, describing the idea behind SSL certificates (why they're needed and how they secure traffic).
-2. The entire `README.md` is structured as a single continuous guide, ensuring all sections flow smoothly.
-
-Let me know if you need any further adjustments!
