@@ -5,6 +5,8 @@
    - Select HTTP as the scheme, as WireGuard is already encrypting the traffic.
    - This allows you to securely access your home services using the domain name through the WireGuard tunnel.
 
+![sample proxy host entry](assets/Screenshotfrom2024-09-1420-24-21.png "Sample proxy host entry")
+
 2. **Test the setup**: You should now be able to access your home-hosted service through your domain, though you'll receive a "Not Secure" warning due to the lack of SSL at this point.
 
 ---
